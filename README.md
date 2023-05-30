@@ -13,3 +13,15 @@ Feel free to explore, contribute, and utilize these caption files to make the wi
 Join us in this collaborative effort to ensure that the valuable teachings and discussions on the Sattology YouTube Channel reach and inspire individuals from all walks of life. Together, let's make wisdom accessible to everyone.
 
 Note: This repository is dedicated to providing caption files for the Sattology YouTube Channel and does not contain the actual video content.
+
+## Lanuages available:
+- Hindi
+- English
+- Tamil (TBD)
+
+## File Formats available:
+- SRT
+- VTT
+- HTML
+- TXT
+- DOCX
