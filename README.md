@@ -1,4 +1,5 @@
 # Sattology YouTube Channel
+## This is unofficial work and repository
 This repository contains caption files in various formats for the insightful talks and videos from the Sattology YouTube Channel. Explore the rich collection of captions provided here to enhance your viewing experience and accessibility options.
 
 The Sattology YouTube Channel offers profound discussions on diverse topics including spirituality, philosophy, ancient wisdom, and cultural heritage. With these caption files, you can easily follow along with the videos in multiple languages or use them to translate and transcribe the content into different formats.
