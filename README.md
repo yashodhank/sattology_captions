@@ -1,4 +1,4 @@
-# Sattology YouTube Channel
+# Sattology YouTube Channel Talks
 ## This is unofficial work and repository
 This repository contains caption files in various formats for the insightful talks and videos from the Sattology YouTube Channel. Explore the rich collection of captions provided here to enhance your viewing experience and accessibility options.
 
